@@ -1,0 +1,75 @@
+#titolo{
+        height:80px;
+        font: bold 350% "Times New Roman";
+        color: aquamarine;
+        background-color: black;
+        text-align: center;
+    }
+#sottotitolo{
+        height: 80px;
+        font: bold 200% "Ink Free";
+        color: aliceblue;
+        background-color: black;
+        text-align: center; 
+    }
+#navbar{
+        border: 1px solid darkcyan;
+        position: absolute;
+        width: 20%;
+        right: 10px;
+        top: 200px;
+        background-color: ivory;
+        font: bold 150% "Calibri";
+    }
+#navbar li{
+    font-size: 110%;
+    }
+#navbar a:link, #navbar a:visited{
+    color: bisque;
+    text-decoration: none;
+    }
+#navbar a:hover{
+    color: bisque;
+    }
+#contenuto{
+    color: greenyellow;
+    background-color: antiquewhite;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 25%;
+    margin-bottom: 0px;
+    text-align: start;
+    font: bold "Calibri";
+    }
+.notizia{
+    font: 150% "Calibri";
+    color: white;
+    text-align: center;
+    height: 85px;
+    }
+#footer{
+    height: 30%;
+    font: bold 140% "Calibri";
+    text-align: center;
+    color: black;
+    background-color: whitesmoke;
+    }
+body{
+    background-image: url(https://external-preview.redd.it/uhq5zTcMPM3tOW_fbUz4PayDt_5pkEXdyXXoRWs3XOg.jpg?auto=webp&s=e06461124c1ccfdba7e9ece763b644ff68eeb06b);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    }
+#immagine{
+    border: 3px;
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    }
+h2{
+    height: 40px;
+    font: bold 200% "Ink Free";
+    color: aliceblue;
+    background-color: black;
+    text-align: center; 
+    }
